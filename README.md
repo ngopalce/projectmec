@@ -1,0 +1,2 @@
+# projectmec
+about result publication
